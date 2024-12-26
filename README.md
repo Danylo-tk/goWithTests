@@ -1,0 +1,1 @@
+Go practice based on [goWithTest](https://quii.gitbook.io/learn-go-with-tests)
